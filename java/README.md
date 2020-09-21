@@ -18,3 +18,4 @@
 - `volatile` 키워드에 대해서 설명해주세요.
 - `transient` 키워드에 대해서 설명해주세요.
 - `Singleton Pattern`을 구현해보세요.
+- `lambda`는 객체인가요?
