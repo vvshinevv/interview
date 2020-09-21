@@ -1,0 +1,12 @@
+## Contents
+- `HTTP`가 무엇인지 설명해주세요.
+- `GET`과 `POST` 메소드의 차이점에 대해서 설명해주세요.
+- `HTTP 요청`과 `HTTP 응답`의 `start-line`을 설명해주세요. 
+- `HTTP 1.0` / `HTTP 1.1` / `HTTP 2.0` / `HTTP 3.0` 특징에 대해서 설명해주세요.
+- 느린 `HTTP 1.1` 프로토콜을 극복하기 위한 노력은 어떤 것들이 있을까요?
+- `HTTP` 통신 과정에 대해서 설명해주세요.
+- `HTTPS` 통신 과정에 대해서 설명해주세요.
+- `REST API`란 무엇인지 설명해주세요.
+- `Cookie`와 `Session`의 차이점에 대해서 설명해주세요.
+- `Web Server`와 `Web Application Server`의 차이점에 대해서 설명해주세요.
+- `Server Push`를 할 수 있는 방식에 대해서 설명해주세요.

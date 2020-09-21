@@ -1,0 +1,15 @@
+## Contents
+- `Circuit Switching`과 `Packet Switching`에 대해서 설명해주세요.
+- `TCP`와 `UDP`의 차이점에 대해서 설명해주세요.
+- `Multiplexing`과 `Demultiplexing`에 대해서 설명해주세요.
+- `TCP`는 어떻게 신뢰성 있는 데이터를 전달할 수 있는지 설명해주세요.
+- `TCP`의 `Flow Control`에 대해서 설명해주세요.
+- `TCP`의 `Congestion Control`에 대해서 설명해주세요.
+- `Three Duplication ACK`에 대해서 설명해주세요.
+- `Three way handshake`에 대해서 설명해주세요.
+- `Four way handshake`에 대해서 설명해주세요.
+- `Subnet mask`에 대해서 설명해주세요.
+- `Routing Table`에 대해서 설명해주세요.
+- `Network Address Translation(NAT)`에 대해서 설명해주세요.
+- `Dynamic Host Configuration Protocol(DHCP)`에 대해서 설명해주세요.
+- `A Record`와 `CNAME Record`에 대해서 설명해주세요.
