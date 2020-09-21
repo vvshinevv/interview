@@ -1,7 +1,20 @@
 ## Contents
-* JVM에 대해서 설명해주세요.
-* JDK, JRE, JVM 에 대해서 설명해주세요.
-
----
-
-* [corejava-interview-questions](https://www.javatpoint.com/corejava-interview-questions)
+- `JDK`, `JRE`, `JVM` 에 대해서 설명해주세요.
+- `JVM`에 대해서 설명해주세요.
+- `Class Loader`의 동작 방식에 대해서 설명해주세요.
+- `Execution Engine`에 대해서 설명해주세요.
+- `Execution Engine`은 어떻게 class 파일을 실행시키는지 설명해주세요.
+- `Runtime Data Area(RDA)`에 대해서 설명해주세요.
+- `Garbage Collector(GC)`에 대해서 설명해주세요.
+- `GC` 종류에 대해서 설명해주세요.
+- `HashTable`과 `HashMap`의 차이점에 대해서 설명해주세요.
+- `HashMap`의 `put`메소드에 대해서 설명해주세요.
+- `HashMap`의 `get`메소드에 대해서 설명해주세요.
+- `HashMap`과 `ConcurrentHashMap`의 차이점에 대해서 설명해주세요.
+- `ConcurrentHashMap`의 동기화 처리 방식에 대해서 설명해주세요.
+- `Java Serialize`에 대해서 설명해주세요.
+- 왜 다른 직렬화 방식이 아닌 `Java Serialize`를 사용해야하는지 설명해주세요.
+- `Stream`의 동작방식에 대해서 설명해주세요.
+- `volatile` 키워드에 대해서 설명해주세요.
+- `transient` 키워드에 대해서 설명해주세요.
+- `Singleton Pattern`을 구현해보세요.
