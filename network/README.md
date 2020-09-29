@@ -11,5 +11,6 @@
 - `Subnet mask`에 대해서 설명해주세요.
 - `Routing Table`에 대해서 설명해주세요.
 - `Network Address Translation(NAT)`에 대해서 설명해주세요.
+- `NAT`의 문제점에 대해서 설명해주세요.
 - `Dynamic Host Configuration Protocol(DHCP)`에 대해서 설명해주세요.
 - `A Record`와 `CNAME Record`에 대해서 설명해주세요.
