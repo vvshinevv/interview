@@ -56,6 +56,9 @@
 - `Syncronized`를 `메모리 장벽`과 연관해서 설명해주세요.
 - `AtomicInteger`와 `Integer`의 차이점에 대해서 설명해주세요.
 
+### [:paperclip:](https://github.com/vvshinevv/interview/tree/master/jpa) JPA
+- 
+
 ### [:paperclip:](https://github.com/vvshinevv/interview/tree/master/network) Network
 - `Circuit Switching`과 `Packet Switching`에 대해서 설명해주세요.
 - `TCP`와 `UDP`의 차이점에 대해서 설명해주세요.
