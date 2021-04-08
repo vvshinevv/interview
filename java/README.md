@@ -20,3 +20,4 @@
 - `Singleton Pattern`을 구현해보세요.
 - `lambda`는 객체인가요?
 - `Syncronized`를 `메모리 장벽`과 연관해서 설명해주세요.
+- `AtomicInteger`와 `Integer`의 차이점에 대해서 설명해주세요.
