@@ -1,12 +1,22 @@
 ## Contents
-- 왜 `Spring`을 사용하는지 설명해주세요.
-- `Servlet`이 무엇인지 설명해주세요.
-- `Dispatcher Servlet`의 동작 과정에 대해서 설명해주세요.
-- `JSP`와 `Servlet의` 차이에 대해서 설명해주세요.
-- `web.xml`에 설정파일에 대해서 설명해주세요.
-- `AOP`에 대해서 설명해주세요.
-- `POJO`에 대해서 설명해주세요.
-- `DI/IOC`에 대해서 설명해주세요.
-- `생성자 주입`과 `변수 주입` 그리고 `세터 주입`에 대해서 설명해주세요.
-- `@Transactional` 동작방식에 대해서 설명해주세요.
-- `Filter`와 `Interceptor`의 차이에 대해서 설명해주세요.
+- `Spring` 왜 사용하는지? (기존 프레임워크와 비교)
+- `Servlet`이 무엇인지?
+- `Dispatcher Servlet`의 동작 과정?
+- `JSP`와 `Servlet의` 차이?
+- `web.xml`에 설정파일?
+- `AOP` 란?
+- `POJO` 란?
+- `DI/IOC` 란?
+- `생성자 주입`과 `변수 주입` 그리고 `세터 주입`에 대해서?
+- `@Transactional` 동작방식?
+  - 성능을 개선하기 위해 메서드 내에서 스레드를 생성하여 비동기로 쿼리를 날리면? (힌트: 병렬 처리보다 트랜잭션에 대해...)
+  - 스프링 내부에서 트랜잭션이 어디에 저장이 되나?
+  - `@Transactional` 우선 순위
+  - `@Transactional`의 `propagation`, `isolation`?
+- `Filter`와 `Interceptor`의 차이?
+- `Error`와 `Exception`의 차이?
+- 서비스 추상화하는 방법?
+- `JPA`와 `Mybatis` 차이?
+  - `JPA-ORM`, `Mybatis-SQLMapper` 
+  - `Mybatis`도 객체지향적으로 설계할 수 있지 않나요?
+  - 객체지향적인 과점에서 `JPA`의 장점
